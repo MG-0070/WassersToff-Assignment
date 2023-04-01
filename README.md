@@ -19,7 +19,7 @@ Install all the required libraries and dependencies using the command npm instal
 Install SASS using the command npm install sass.
 For displaying data, Recharts and ApexChart have been used.
 Running the Application
-To run the application, use the command npm start which runs the app in the development mode. The application can then be viewed in the browser at http://localhost:3000.
+To run the application, use the command npm start which runs the app in the development mode. The application can then be viewed in the browser at http://localhost:3000/.
 
 Deployment
 The application has been deployed on Netlify and can be accessed using this link: https://meek-semifreddo-009c0c.netlify.app/
